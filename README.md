@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Redis, Typescript**
 
-- 💬 Ask me about **PHP, SQL, API, Docker**
+- 💬 Ask me about **PHP, NodeJS, SQL, API, Docker**
 
 - 📫 How to reach me **kelvin013@gmail.com**
 
