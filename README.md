@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelvin Amancio</h1>
 <h3 align="center">A skilled Back End Senior Software Engineer with 4+ years of experience in developing cutting-edge solutions for diverse industries</h3>
 
-- 🌱 I’m currently learning **React, Redis, Typescript**
+- 🌱 I’m currently learning **React, Redis, Typescript, Hyperf**
 
 - 💬 Ask me about **PHP, NodeJS, SQL, API, Docker**
 
