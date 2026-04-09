@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kelvin Amancio</h1>
-<h3 align="center">A skilled Senior Full Stack Software Engineer with 6+ years of experience in developing cutting-edge solutions for diverse industries</h3>
+<h3 align="center">A skilled Senior Full Stack Software Engineer with 7+ years of experience in developing cutting-edge solutions for diverse industries</h3>
 
-- 🌱 I’m currently studying **React, React Native, Software Architecture**
+- 🌱 I’m currently studying **AI, React Native, Software Architecture**
 
 - 💬 Ask me about **PHP, JavaScript, Typescript, NodeJS, SQL, NoSQL, API, Docker**
 
 - 📫 How to reach me **kelvin013@gmail.com**
+
+- 💡 My portfolio: https://www.kamancio.dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
